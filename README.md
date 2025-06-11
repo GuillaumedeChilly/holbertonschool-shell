@@ -1,1 +1,1 @@
-# Shell basics repo
+Shell permissions project by GuillaumedeChilly
