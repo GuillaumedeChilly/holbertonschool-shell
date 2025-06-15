@@ -1,1 +1,1 @@
-This is my shell scripts repo
+Shell scripts repository for Holberton / ALX tasks.
