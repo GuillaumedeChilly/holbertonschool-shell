@@ -1,1 +1,1 @@
-Shell permissions project by GuillaumedeChilly
+Shell, permissions project
