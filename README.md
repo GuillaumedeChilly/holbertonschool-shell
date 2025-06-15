@@ -1,1 +1,1 @@
-Shell alias project
+This is my shell scripts repo
