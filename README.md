@@ -1,1 +1,1 @@
-Shell, permissions project
+Shell alias project
