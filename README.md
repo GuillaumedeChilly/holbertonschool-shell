@@ -1,1 +1,2 @@
-Shell project scripts
+Shell init project
+Author: Grimoire
