@@ -1,1 +1,1 @@
-README exists
+Shell project scripts
